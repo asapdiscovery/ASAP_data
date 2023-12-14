@@ -1,0 +1,9 @@
+[submodule "P2_Antiviral_Core/SARS-CoV-2/Mac1/SARS2-mut-fitness"]
+	path = P2_Antiviral_Core/SARS-CoV-2/Mac1/SARS2-mut-fitness
+	url = https://github.com/jbloomlab/SARS2-mut-fitness
+[submodule "P2_Antiviral_Core/SARS-CoV-2/Mpro/SARS2-mut-fitness"]
+	path = P2_Antiviral_Core/SARS-CoV-2/Mpro/SARS2-mut-fitness
+	url = https://github.com/jbloomlab/SARS2-mut-fitness
+[submodule "P2_Antiviral_Core/ZIKV/NS2B-NS3pro/ZIKV_DMS_NS3_EvansLab"]
+	path = P2_Antiviral_Core/ZIKV/NS2B-NS3pro/ZIKV_DMS_NS3_EvansLab
+	url = https://github.com/jbloomlab/ZIKV_DMS_NS3_EvansLab
